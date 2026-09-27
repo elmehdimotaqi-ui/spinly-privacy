@@ -67,3 +67,5 @@ published at the same address.
 ## Contact
 
 Questions about this policy: **elmehdimotaqi@gmail.com**
+
+For help with the app itself, see [Support](./support/).
