@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Support
+permalink: /support/
 ---
 
 # Spinly — Support
