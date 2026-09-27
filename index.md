@@ -68,4 +68,4 @@ published at the same address.
 
 Questions about this policy: **elmehdimotaqi@gmail.com**
 
-For help with the app itself, see [Support](./support/).
+For help with the app itself, see [Support](https://elmehdimotaqi-ui.github.io/spinly-privacy/support/).

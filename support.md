@@ -70,5 +70,5 @@ right-to-left.
 
 ## Privacy
 
-Spinly's [privacy policy](./) explains exactly what is stored and what the ads collect. The short
+Spinly's [privacy policy](https://elmehdimotaqi-ui.github.io/spinly-privacy/) explains exactly what is stored and what the ads collect. The short
 version: your lists never leave your device, and buying Remove Ads stops ad requests entirely.
