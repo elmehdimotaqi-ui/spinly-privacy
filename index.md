@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Spinly — Privacy Policy
 
-**Effective date:** 27 September 2026
+**Effective date:** 29 September 2026
 
 Spinly is a decision spinner. This policy explains what happens to data when you use it.
 
@@ -37,8 +37,9 @@ described in the [Google Privacy Policy](https://policies.google.com/privacy) an
 
 ## Tracking and your choice
 
-After your first spin, Spinly asks for permission to track your activity across other companies'
-apps and websites. This is the standard iOS App Tracking Transparency prompt.
+When you first open Spinly, before any ad is requested, it asks for permission to track your
+activity across other companies' apps and websites. This is the standard iOS App Tracking
+Transparency prompt.
 
 - **If you allow it**, ads may be personalized.
 - **If you decline**, or never answer, ads are requested as **non-personalized**. Spinly works
